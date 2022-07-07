@@ -1,2 +1,6 @@
 mais testes, ta tenso
 pelo menos to aprendendo
+
+git add . → adiciona todos os arquivos do diretório de trabalho pra preparação. ainda não ta versionado
+
+git commit -m "mensagem" → adiciona os arquivos no repositório, com mensagem. ela é opcional, mas é melhor colocar
