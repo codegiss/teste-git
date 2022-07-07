@@ -5,4 +5,6 @@ git add . → adiciona todos os arquivos do diretório de trabalho pra preparaç
 
 git commit -m "mensagem" → adiciona os arquivos no repositório, com mensagem. ela é opcional, mas é melhor colocar
 
-cada alteração nos arquivos precisa ser seguida de git add e git commit
+cada alteração nos arquivos precisa ser seguida de git add e git commit (comitar)
+
+por enquanto isso é tudo, pessoal
